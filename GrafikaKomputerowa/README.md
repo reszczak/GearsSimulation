@@ -3,10 +3,10 @@
 ## 1. Wstęp
 ### 1.1 Cel projektu
 Celem projektu było stworzenie aplikacji wizualizującej ruch kół zębatych przy użyciu biblioteki OpenGL oraz GLFW. Aplikacja umożliwia interaktywną zmianę widoku sceny za pomocą klawiatury oraz obserwację działania mechanizmu zębatego w czasie rzeczywistym.
-
 ### 1.2 Zakres projektu
 Projekt obejmował implementację rysowania kół zębatych, obsługę kamery, shaderów oraz interakcje użytkownika z wykorzystaniem klawiatury i myszy.
-
+### 1.3 Osoby odpowiedzialne
+Dawid Reszczyński, Mateusz Polak, Dawid Rusin, Jan Rzadkosz
 ## 2. Implementacja
 ### 2.1 Główne komponenty
 Aplikacja składa się z trzech głównych komponentów:
